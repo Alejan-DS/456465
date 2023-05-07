@@ -1,0 +1,89 @@
+*{
+padding: 0;
+margin: 0;
+}
+
+
+/* ESTILO DEL NAVEGADOR */
+nav{
+    background-color: #060648;
+    height: 40px;
+    width: 100%;
+    top: 0;
+    position: fixed;
+    padding-left: 27%;
+    padding-top: 1%;
+}
+nav ul li{
+    display: inline; 
+}
+nav ul li a{
+    text-decoration: none;
+    color: #f9f9f9;
+    margin: 1%;
+    font: 1em sans-serif;
+}
+.icono{
+float: lerft;
+position: fixed;
+z-index: 1;
+top: 0;
+left: 0;
+
+}
+/* ESTILO AL FOOTER */
+
+footer{
+    background-color: #060648;
+    height: 30px;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    padding-left: 40%;
+    padding-top: 1%;
+    color: #f9f9f9;
+    font: 1em sans-serif;
+}
+
+/* ESTILO AL CONTENIDO PRINCIPAL */
+
+/* .titulo-1{
+    background-image: url(../recursos/imagenes/silver-portada.jpg)
+}
+.frase-1
+    {
+        color: #f9f9f9;
+        padding: 10px;
+} */
+main{
+    padding: 5%;
+    margin-left: 4%;
+}
+.ryoma{
+margin-top: 15px;
+
+}
+
+h1{
+    margin-top: 7%;
+    margin-left: -2%;
+}
+.resumen{
+    margin-top: 7%;
+}
+.intro{
+    margin-inline: 2%;
+	}
+
+.imagen-seigaku{
+    position: absolute;
+    ;
+}
+h2{
+    margin-top: 1%;
+    margin-left: -2%;
+    margin-bottom: 1%;
+}
+p{
+    margin: 1%;
+}
