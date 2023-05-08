@@ -1,3 +1,36 @@
-.img-car{
-    height: 90vh;
+// index
+.bodyy{
+    background-color: #f3e740;
+    background-image: linear-gradient(45deg, #f79e80 0%, #fbf54d 100%);
+
+    .frase-h1{
+        text-align: center;
+        margin-bottom: 1rem;
+        font-family: silverado;
+        font-size: 2rem;
+        padding: 3rem;
+        letter-spacing: 5px;
+        color: rgb(224, 17, 17);
+        text-shadow: -5px 1px 0px rgba(232, 215, 87, 0.77);
+    }
+    .img-car{
+        height: 90vh;
+        margin-bottom: 1rem;
+    }
+    .card{
+        font-family:monospace;
+    }
+   .ryoma{
+    display: flex;
+    justify-content: center;
+    width:100%;
+    height: 100%;
+    img{
+    box-shadow: 0px 20px 36px 17px rgba(244,38,38,0.75);
+    }
+   
+
+   /*** footer*/
+   
+}
 }

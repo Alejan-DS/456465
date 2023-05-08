@@ -1,3 +1,11 @@
-.navbar {
-    border: 1px black solid; 
+.nav-f{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    font-size: 1.2rem;
+    .nav-item a{
+    color: rgb(226, 230, 112) !important;
+    font-size: 30px !important;
+    font-family:monospace;
+    } 
 }

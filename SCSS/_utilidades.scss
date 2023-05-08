@@ -1,3 +1,8 @@
-body{
-    background: "../recursos/imagenes/tenis-fondo.jpg";
+//fuente
+@font-face {
+    font-family: silverado;
+    src: url(../recursos/fonts/SilveradoPersonalUseRegular-ALl36.ttf);
 }
+
+//variables
+$color-de-fondo-pag1: linear-gradient(to right, #f9d423 0%, #ff4e50 100%);
